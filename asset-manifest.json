@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/series-recommender-react/static/css/main.b0ad9c6e.chunk.css",
+    "main.js": "/series-recommender-react/static/js/main.c1dcfe2b.chunk.js",
+    "main.js.map": "/series-recommender-react/static/js/main.c1dcfe2b.chunk.js.map",
+    "runtime-main.js": "/series-recommender-react/static/js/runtime-main.8d90db92.js",
+    "runtime-main.js.map": "/series-recommender-react/static/js/runtime-main.8d90db92.js.map",
+    "static/js/2.577bc6d2.chunk.js": "/series-recommender-react/static/js/2.577bc6d2.chunk.js",
+    "static/js/2.577bc6d2.chunk.js.map": "/series-recommender-react/static/js/2.577bc6d2.chunk.js.map",
+    "index.html": "/series-recommender-react/index.html",
+    "static/css/main.b0ad9c6e.chunk.css.map": "/series-recommender-react/static/css/main.b0ad9c6e.chunk.css.map",
+    "static/js/2.577bc6d2.chunk.js.LICENSE.txt": "/series-recommender-react/static/js/2.577bc6d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d90db92.js",
+    "static/js/2.577bc6d2.chunk.js",
+    "static/css/main.b0ad9c6e.chunk.css",
+    "static/js/main.c1dcfe2b.chunk.js"
+  ]
+}
