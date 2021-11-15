@@ -176,7 +176,9 @@ export default function App() {
         <div className="content has-text-centered">
           <p>
             <strong>Get source code here </strong>
-            <a href="">Github</a>
+            <a href="https://github.com/theakshaymore/series-recommender-react">
+              Github
+            </a>
           </p>
         </div>
       </footer>
